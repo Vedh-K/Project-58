@@ -1,0 +1,21 @@
+body{
+  text-align: center;
+   background-color:linear-gradient(pink 0%, aquamarine 100%);     
+}
+
+img{
+  width:30px;
+  border-radius:20px;
+}
+
+#welcome{
+    position: absolute;
+    overflow: hidden;
+   height: 800px;
+    height: 100%;
+    color: black;
+    background-color:linear-gradient(pink 0%, aquamarine 100%);
+    width: 100%;
+    z-index: 9;
+  vertical-align:middle;
+}
